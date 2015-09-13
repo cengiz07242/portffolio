@@ -1,0 +1,38 @@
+// Place all the styles related to the Pages controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+.jumbotron {
+	background: url('https://vishal1mehra.files.wordpress.com/2014/08/turkish-airlines-a330-at-delhi-1.jpg') center center;
+	position: relative;
+    width: 100%;
+    height: 700px;
+    background-size: cover;
+    overflow: hidden;
+    color: white;
+    text-align:center;
+}
+
+.social_bookmarks{
+margin: auto;
+text-align:center;
+
+}
+
+.social_bookmarks li {
+display:inline;
+margin:0 7px 0 0;
+width:24px;
+font-size:2em;
+color: #03aacc;
+}
+
+.social {
+margin: auto;
+text-align:center;
+}
+
+.social h2 {
+	padding-left:24px;
+}
+
+.btn_l {background-color:rgba(0,0,0,0.9);border-radius:0;color:#fff;font-size:18px;font-weight:100;height:60px;line-height:60px;margin:40px 0;padding:0;transition:background-color .5s;width:200px}
